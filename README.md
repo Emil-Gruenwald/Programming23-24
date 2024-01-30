@@ -11,5 +11,5 @@
 ### Space Game
 OOP Graphics game, spotlighting object ineraction and collision
 ![Space Game Menu](https://github.com/Emil-Gruenwald/Programming23-24/blob/main/images/sg1.png?raw=true)
-![Space Game Gameplay]()
+![Space Game Gameplay](https://github.com/Emil-Gruenwald/Programming23-24/blob/main/images/sg2.png?raw=true)
 ![Space Game Gameover]()
